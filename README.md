@@ -1,1 +1,1 @@
-# StratsForBot
+# Bot-Strats
